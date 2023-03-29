@@ -1,0 +1,21 @@
+.Footer{
+    display: flex;
+    position: absolute;
+    bottom: 0;
+    width: 90%;
+    height: 6.6%;
+    align-items: center;
+    justify-content: center;
+    background-color: #7d73e61a;
+    color: white;
+    left: 50%;
+    transform: translate(-50%);
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.Footer > svg{
+    font-size: 3.5vh;
+}
