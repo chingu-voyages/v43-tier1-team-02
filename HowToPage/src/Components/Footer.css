@@ -18,4 +18,12 @@
 
 .Footer > svg{
     font-size: 3.5vh;
+    font-weight: bolder;
+    cursor: pointer;
+}
+
+@media all and (max-width: 593px) {
+    .Footer{
+        height: auto;
+    }
 }
