@@ -1,0 +1,39 @@
+.FinishedStory{
+    margin: 0 40px 20px;
+    background-color: #E8E8E8;
+    text-align: center;
+    padding-bottom: 40px;
+    border-radius: 5px;
+}
+
+.active{
+    color: #7C73E6;
+}
+
+.story-title{
+    color: #7C73E6;
+    padding: 20px 0;
+    font-size: 34px;
+}
+
+.story-text{
+    font-size: 20px;
+    width: 600px;
+    margin: 0 auto;
+}
+
+.story-buttons{
+    margin-top: 20px;
+    
+}
+
+.story-buttons button{
+    background-color: #7C73E6;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-weight: 600;
+    width: 120px;
+    height: 30px;
+    margin-right: 10px;
+}
