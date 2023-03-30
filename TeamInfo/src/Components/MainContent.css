@@ -1,0 +1,23 @@
+.MadLibsBar {
+    margin-top: 0.7%;
+    background-color: #7C73E6;
+    border-radius: 5px;
+    height: 7%;
+    width: 95%;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+}
+
+.MadLibsBar>h1 {
+    position: relative;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 3vh;
+    color: #FFFFFF;
+    width: 304px;
+    height: 51px;
+    border: 20px;
+    left: 28px;
+}
