@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@600;700&display=swap");
+
+main {
+  width: 80%;
+  margin: 80px auto;
+  font-family: Inter;
+}
+h1 {
+  text-align: center;
+  margin-bottom: 60px;
+  font-size: 40px;
+  font-weight: 700;
+}
+ul {
+  list-style-type: none;
+  display: flex;
+  align-items: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+li {
+  display: block;
+  flex: 0 1 auto;
+}
+.StoryCard {
+  display: flex;
+  flex-direction: column;
+  background: #e8e8e8;
+  border-radius: 3px;
+}
+.StoryImage {
+  max-width: 190px;
+  padding: 3px;
+}
+.StoryTitle {
+  text-decoration: none;
+  color: black;
+  font-size: 28px;
+  padding: 3px 5px;
+  font-weight: 600;
+}
